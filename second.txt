@@ -1,0 +1,8 @@
+- link remote repository:
+	git remote add origin <link>
+(Here origin is alias)
+
+- Push all the changes from local repository to remote repository:
+	git push <remote repo alias where you want to push the changes> <branch for which this particular change needs to be pushed> 
+
+	Ex:- git push origin master
